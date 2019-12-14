@@ -1,6 +1,10 @@
 # AlgoBrain
 A research project in college supervised by Undergraduates Research Forum at Faculty of Engineering, Cairo University.
 
+## Research Area
+Computer Chess
+
+
 ## Details
 Our problem is that how to obtain the attack set of the next move for sliding pieces (queen, bishop and rock) in
 computer chess engines. But why sliding pieces? The answer is that sliding pieces have so
