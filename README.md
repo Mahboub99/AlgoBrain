@@ -9,7 +9,7 @@ approach to obtain that and the magic bitboard approach and we will provide the 
 approach as we aim to provide programmers who write chess engines a discussion of one of the fastest and most versatile movebitboard generators for individual sliding pieces
 
 ## Implementation
-We found a library already implemented for the magical approach <a href="https://github.com/goutham/magic-bits">here</a> and we added the implementation for the classical approach in our repo.
+We found a library already implemented for the magical approach <a href="https://github.com/goutham/magic-bits">here</a> and we added the implementation for the classical approach in our repo to make a comparison between them.
 
 ## Future Work
 * Providing the assembly code for both classical and magical approach.
