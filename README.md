@@ -1,3 +1,8 @@
+<p align="center">
+  <a href="" rel="noopener">
+ <img width=400px height=210px src="./chess.jpg" alt="algoBrain"></a>
+</p>
+
 # AlgoBrain
 A research project in college supervised by Undergraduates Research Forum at Faculty of Engineering, Cairo University.
 
